@@ -1,7 +1,9 @@
 # CS50
 Introduction to Computer Science
 Week 0: Scratch
+
 Week 1: C
+
 GUI (Graphical User Interface):
 A GUI is a type of user interface that allows users to interact with a computer system or software through graphical elements such as windows, icons, buttons, menus, and other visual components. It is designed to be user-friendly and intuitive, often requiring minimal technical knowledge.
 
