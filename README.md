@@ -25,3 +25,11 @@ In the terminal window, some common command-line arguments we may use include:
  mv, for moving (renaming) files and directories
  rm, for removing (deleting) files
  rmdir, for removing (deleting) directories
+
+Types
+printf allows for many format codes. Here is a non-comprehensive list of ones you may utilize in this course:
+%c = Represents a single character
+%f = Represents a floating-point number (e.g., float).
+%i/%d = Represents an integer (same as %d).
+%li = Represents a long integer.
+%s = Represents a string (null-terminated character array).
